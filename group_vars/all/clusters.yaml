@@ -1,0 +1,12 @@
+clusters:
+  - name: nerc-ocp-obs
+    address_type: external
+    access_type: admin
+
+  - name: nerc-ocp-pub
+    address_type: external
+    access_type: public
+
+  - name: nerc-ocp-infra
+    address_type: internal
+    access_type: admin
